@@ -14,8 +14,8 @@ It emails you every time a calendar event is created to confirm successful opera
 
 ## How to
 1. Copy the google script into a new project at https://script.google.com (you have to register beforehand)
-2. Click the 'play' button and save the project (create whatever name)
-3. Accept the permissions - click "Review permissions" in the pop up
+2. Make sure the calendar you want to use is the primary calendar that you own
+3. Click the 'play' button and save the project (create whatever name). Accept the permissions - click "Review permissions" in the pop up
 4. Choose your gmail account
 5. You'll get blocked by a "this app isn't verified", so click "advanced" in the bottom left
 6. Then click "go to X" app where X is the name you chose for your project, and then click "Allow"
